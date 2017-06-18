@@ -1,4 +1,4 @@
-class nstall_docker {
+class install_docker {
 
 
 
