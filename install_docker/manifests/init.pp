@@ -1,5 +1,5 @@
 class install_docker {
-package ll
+package llm
 
 
 
