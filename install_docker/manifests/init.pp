@@ -1,19 +1,5 @@
 class install_docker {
-package 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+package {"docker":
+ensure => present,
+}
 }
